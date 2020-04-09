@@ -1,3 +1,3 @@
 # Goal
-Change sum output to glog
+Change some output to glog
 
